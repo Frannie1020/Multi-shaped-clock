@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/12/17 11:49:40。
+     1>项目“D:\CorC++\第二次实验\clock3\clock3\clock3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files\VS\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EllipseClock.cpp
+         EllipseClock.cpp
+     1>d:\corc++\第二次实验\clock3\clock3\clock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(94): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(100): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(106): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\corc++\第二次实验\clock3\clock3\ellipseclock.cpp(32): warning C4101: “i”: 未引用的局部变量
+       Link:
+         F:\Program Files\VS\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CorC++\第二次实验\clock3\Debug\clock3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CorC++\第二次实验\clock3\Debug\clock3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CorC++\第二次实验\clock3\Debug\clock3.lib" /MACHINE:X86 Debug\acllib.obj
+         Debug\Clock.obj
+         Debug\clocks.obj
+         Debug\EllipseClock.obj
+         Debug\GLASS.obj
+         Debug\RectangleClock.obj
+         Debug\Shape.obj
+         clock3.vcxproj -> D:\CorC++\第二次实验\clock3\Debug\clock3.exe
+     1>已完成生成项目“D:\CorC++\第二次实验\clock3\clock3\clock3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.26

@@ -11,15 +11,18 @@ The C++ language is used to design clocks with different shapes, as well as hour
 💡Test results
 When the program is opened and compiled and run, the rectangular clock is shown below:
 
-![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/718b2373-418d-467b-be86-9814bb3fd6a5)
+![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/e9cbdeee-2203-457b-b357-349a70c0c406)
+
 
 The seven-coloured petal-shaped clock is shown below:
 
-![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/93e2763b-71d5-4462-b372-597b29c1a82f)
+![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/47f4f5f2-2214-41a2-a52c-5e0d747e537f)
+
 
 The times are all current system times, followed by the overall picture:
 
-![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/08d62f45-99af-4915-9a9f-37ddce062cf9)
+![image](https://github.com/Frannie1020/Multi-shaped-clock/assets/137517674/f4a1f3ab-9f22-49b3-9040-2ab67d972eaa)
+
 
 💡Thoughts
 
